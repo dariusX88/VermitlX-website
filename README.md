@@ -1,4 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VermitlX - Bridging Industries</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background-color: #f4f4f4; color: #333; }
+    header { background-color: #222; color: #fff; padding: 30px 20px; text-align: center; }
+    nav { background-color: #333; color: #fff; padding: 10px; text-align: center; }
+    nav a { color: #fff; margin: 0 15px; text-decoration: none; }
+    section { padding: 20px; background-color: #fff; margin: 20px; border-radius: 8px; }
+    footer { background-color: #222; color: #fff; padding: 20px; text-align: center; }
+    button { background-color: #0057a8; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;}
+    img { width: 100%; height: auto; border-radius: 8px; }
+  </style>
+</head>
+<body>
+
 <header>
+  <h1>VermitlX</h1>
+  <p>Connecting Industries, Creating Opportunities</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#gallery">Gallery</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About VermitlX</h2>
+  <p>Based in Austria, VermitlX connects clients in mining, steel production, and manufacturing. Our mission is to bridge businesses, creating collaborations and unlocking opportunities worldwide.</p>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Industrial Networking & B2B Connections</li>
+    <li>Market Entry & Expansion Support</li>
+    <li>Strategic Partner Matching</li>
+    <li>Consulting & Business Development</li>
+  </ul>
+</section>
+
+<section id="gallery">
+  <h2>Industry Highlights</h2>
+  <img src="https://source.unsplash.com/featured/?conveyor-belt" alt="Conveyor Belt">
+  <img src="https://source.unsplash.com/featured/?steel-plant" alt="Steel Plant">
+  <img src="https://source.unsplash.com/featured/?oil-rig" alt="Oil Rig">
+  <img src="https://source.unsplash.com/featured/?manufacturing" alt="Manufacturing">
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:office@vermitlx.com">office@vermitlx.com</a></p>
+  <p>Phone: +43 123 456 789</p>
+  <button>Get in Touch</button>
+</section>
+
+<footer>
+  <p>&copy; 2025 VermitlX. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
 
 <!--
   <<< Author notes: Course header >>>
